@@ -321,6 +321,11 @@ embed {
 		width: 100%; 
 	}
 
+	#circular-headshot {
+		width: 70%; 
+		height: 70%;
+	}
+
 	.grid > div {
 		padding: 5px;
 		font-size: 20px;
